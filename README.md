@@ -11,6 +11,7 @@ The project consists of the following components:
 - DBT Integration: DBT is utilized to derive new columns and maintain an up-to-date dataset.
 - Data Visualization: The transformed data is visualized in a looker dashboard for easy analysis.
 - this is me testing the feature out
+- This is me testing it our again
 
 ### Pipeline Architecture
 ![](demo/pipeline.png)
