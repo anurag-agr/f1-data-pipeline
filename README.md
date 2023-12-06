@@ -10,6 +10,7 @@ The project consists of the following components:
 - Orchestration: Prefect manages and monitors entire pipeline workflow, which are broken down into small tasks and flows.
 - DBT Integration: DBT is utilized to derive new columns and maintain an up-to-date dataset.
 - Data Visualization: The transformed data is visualized in a looker dashboard for easy analysis.
+- this is me testing the feature out
 
 ### Pipeline Architecture
 ![](demo/pipeline.png)
